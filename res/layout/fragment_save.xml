@@ -31,7 +31,7 @@
         android:orientation="horizontal"
         android:baselineAligned="false"
         android:gravity="center_vertical"
-        android:background="#ddd"
+        android:background="@color/background_2"
         android:minHeight="?android:attr/listPreferredItemHeightSmall">
 
         <ImageView
